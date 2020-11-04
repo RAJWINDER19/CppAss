@@ -53,10 +53,10 @@ int main() // main function
 {
    KpuStudent info; //object for acessing variables of classes but first base class constructor will be called
    cout<<" The student data is"<<endl;
-   cout<<" the student id is "<<" "<< info.getnumber()<<endl;
+   cout<<" the student id is "<<" "<< info.number()<<endl;
    cout<< " the student name is " <<" "<<info.name<<endl;
    cout<<"student age is " <<" "<< info.age<<endl;
-   cout<<" Major is "<<" "<<info.getMajor()<<endl;  // printing the student data
+   cout<<" Major is "<<" "<<info.Major()<<endl;  // printing the student data
    cout<<" Campus is " <<" "<<info.Campus<<endl;
    cout<<"enrolled in year" <<" "<<info.year<<endl;
    return 0;
