@@ -1,3 +1,4 @@
+```
 Bug 1
 Q1. The incorrect original code or code snippit that you wrote:
 
@@ -327,4 +328,6 @@ class HogwartsStudent: public Student{
 Q6. What is the take-away message from this bug?
 
 Always call the function inside the class with scope resolution.
+
+```
 
