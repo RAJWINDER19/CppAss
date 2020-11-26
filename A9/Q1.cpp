@@ -12,7 +12,7 @@ int main(){
     for(int i =0; i<max; i++){
         cout<<" Enter values for array"<<endl;
         cin>>val[i];
-        //val[i] =i;
+        
     }
     //displaying values of array
     cout<<" The values of array are"<<endl;
